@@ -28,4 +28,5 @@
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=sally8p&bg_color=180,000000,&title_color=000000&text_color=000000"
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sally8p&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
            /> </div> 
+        <img src=https://capsule-render.vercel.app/api?section=footer&type='waving'&color=100:328b69,0:0d2b7d' />
     </div>
