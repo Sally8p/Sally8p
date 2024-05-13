@@ -1,7 +1,7 @@
 
 
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:328b69,100:0d2b7d&height=120&text=💻%20Sally8p%20Github%20💻&animation=blinking&fontColor=ffffff&fontSize=60" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:328b69,100:0d2b7d&height=120&text=💻%20Sally8p%20Github%20💻&animation=twinkling&fontColor=ffffff&fontSize=60" />
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 😎 Welcome, World 😎 </h2>  
